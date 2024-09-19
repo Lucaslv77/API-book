@@ -3,8 +3,8 @@ package controllers
 import (
     "github.com/gin-gonic/gin"
     "net/http"
-    "github.com/spaaws/book-api/config"
-    "github.com/spaaws/book-api/models"
+    "github.com/Lucaslv77/API-book/config"
+    "ggithub.com/Lucaslv77/API-book/models"
 )
 
 func GetBooks(c *gin.Context) {
